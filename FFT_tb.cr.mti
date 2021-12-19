@@ -1,0 +1,36 @@
+D:/FFT/Source/binary_counter.v {1 {vlog -work work -stats=none D:/FFT/Source/binary_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module binary_counter
+
+Top level modules:
+	binary_counter
+
+} {} {}} D:/FFT/Source/FFF_TOP.v {1 {vlog -work work -stats=none D:/FFT/Source/FFF_TOP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FFF_TOP
+
+Top level modules:
+	FFF_TOP
+
+} {} {}} D:/FFT/Source/ROM_IN.v {1 {vlog -work work -stats=none D:/FFT/Source/ROM_IN.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM_IN
+
+Top level modules:
+	ROM_IN
+
+} {} {}} D:/FFT/Source/ROM_IN_TB.v {1 {vlog -work work -stats=none D:/FFT/Source/ROM_IN_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ROM_IN_TB
+
+Top level modules:
+	ROM_IN_TB
+
+} {} {}} D:/FFT/Source/Counter_With_Parameter.v {1 {vlog -work work -stats=none D:/FFT/Source/Counter_With_Parameter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Counter_With_Parameter
+
+Top level modules:
+	Counter_With_Parameter
+
+} {} {}}

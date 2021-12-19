@@ -1,0 +1,517 @@
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 05:30:28 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.Counter_With_Parameter
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'counter'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/counter File: D:/FFT/Source/FFF_TOP.v Line: 27
+# ** Warning: (vsim-3722) D:/FFT/Source/FFF_TOP.v(27): [TFMPC] - Missing connection for port 'flag'.
+add wave -position insertpoint sim:/ROM_IN_TB/*
+run
+# ** Warning: (vsim-PLI-3409) Illegal binary digit '.' in data on line 1 of file "D:/FFT/Source/ttt.txt".    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.Counter_With_Parameter
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'counter'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/counter File: D:/FFT/Source/FFF_TOP.v Line: 27
+# ** Warning: (vsim-3722) D:/FFT/Source/FFF_TOP.v(27): [TFMPC] - Missing connection for port 'flag'.
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.Counter_With_Parameter
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'counter'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/counter File: D:/FFT/Source/FFF_TOP.v Line: 27
+# ** Warning: (vsim-3722) D:/FFT/Source/FFF_TOP.v(27): [TFMPC] - Missing connection for port 'flag'.
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# 4 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.Counter_With_Parameter
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'counter'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/counter File: D:/FFT/Source/FFF_TOP.v Line: 27
+# ** Warning: (vsim-3722) D:/FFT/Source/FFF_TOP.v(27): [TFMPC] - Missing connection for port 'flag'.
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 05:37:52 on Apr 19,2021, Elapsed time: 0:07:24
+# Errors: 0, Warnings: 4
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# 4 compiles, 0 failed with no errors.
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 05:38:09 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.Counter_With_Parameter
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'counter'.  Expected 5, found 4.
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/counter File: D:/FFT/Source/FFF_TOP.v Line: 27
+# ** Warning: (vsim-3722) D:/FFT/Source/FFF_TOP.v(27): [TFMPC] - Missing connection for port 'flag'.
+add wave -position insertpoint sim:/ROM_IN_TB/*
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+run
+quit -sim
+# End time: 05:46:09 on Apr 19,2021, Elapsed time: 0:08:00
+# Errors: 0, Warnings: 5
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 05:46:36 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+add wave -position insertpoint sim:/ROM_IN_TB/*
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position insertpoint sim:/ROM_IN_TB/FFT/counter/*
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+run
+run
+run
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/ROM_IN_TB/FFT/rom_1/addr
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+run
+# WARNING: No extended dataflow license exists
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+# Error: invalid command name "::.main_pane.dataflow.interior.cs.body.pw.df.c"
+add wave -position end  sim:/ROM_IN_TB/FFT/rom_1/q
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: (vsim-PLI-3406) Too many digits (32) in data on line 1 of file "D:/FFT/Source/ttt.txt". (Max is 9.)    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+run
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3409) Illegal binary digit '3' in data on line 3 of file "D:/FFT/Source/ttt.txt".    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+quit -sim
+# End time: 06:06:05 on Apr 19,2021, Elapsed time: 0:19:29
+# Errors: 0, Warnings: 2
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 06:06:50 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+add wave -position insertpoint sim:/ROM_IN_TB/*
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+# Break key hit
+quit -sim
+# End time: 06:10:19 on Apr 19,2021, Elapsed time: 0:03:29
+# Errors: 0, Warnings: 2
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 06:10:38 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+add wave -position insertpoint sim:/ROM_IN_TB/*
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+quit -sim
+# End time: 06:27:59 on Apr 19,2021, Elapsed time: 0:17:21
+# Errors: 0, Warnings: 2
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 06:28:14 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+add wave -position insertpoint sim:/ROM_IN_TB/*
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+add wave -position insertpoint  \
+sim:/ROM_IN_TB/FFT/rom_1/addr
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+add wave -position insertpoint  \
+sim:/ROM_IN_TB/FFT/rom_1/rom
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+run
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+quit -sim
+# End time: 06:37:08 on Apr 19,2021, Elapsed time: 0:08:54
+# Errors: 0, Warnings: 2
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 06:37:19 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+add wave -position insertpoint sim:/ROM_IN_TB/*
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+add wave -position insertpoint  \
+sim:/ROM_IN_TB/FFT/rom_1/rom
+quit -sim
+# End time: 06:39:59 on Apr 19,2021, Elapsed time: 0:02:40
+# Errors: 0, Warnings: 3
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 06:40:25 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+add wave -position insertpoint sim:/ROM_IN_TB/*
+run
+run
+run
+quit -sim
+# End time: 09:44:40 on Apr 19,2021, Elapsed time: 3:04:15
+# Errors: 0, Warnings: 2
+# Compile of Counter_With_Parameter.v was successful.
+# Compile of FFF_TOP.v was successful.
+# Compile of ROM_IN.v was successful.
+# Compile of ROM_IN_TB.v was successful.
+# Compile of binary_counter.v was successful.
+# 5 compiles, 0 failed with no errors.
+vsim -gui work.ROM_IN_TB
+# vsim -gui work.ROM_IN_TB 
+# Start time: 09:44:59 on Apr 19,2021
+# Loading work.ROM_IN_TB
+# Loading work.FFF_TOP
+# Loading work.ROM_IN
+# Loading work.binary_counter
+add wave -position insertpoint sim:/ROM_IN_TB/*
+run
+# ** Warning: (vsim-PLI-3407) Too many data words read on line 3 of file "D:/FFT/Source/ttt.txt". (Current address [1], address range [-1:0])    : D:/FFT/Source/ROM_IN.v(25)
+#    Time: 0 ps  Iteration: 0  Instance: /ROM_IN_TB/FFT/rom_1
+run
+add wave -position insertpoint  \
+sim:/ROM_IN_TB/FFT/rom_1/rom
+# End time: 21:24:38 on Apr 20,2021, Elapsed time: 35:39:39
+# Errors: 0, Warnings: 3

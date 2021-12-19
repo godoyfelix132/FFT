@@ -1,0 +1,20 @@
+module cos
+#(parameter WIDTH=32)
+(
+    input clk,
+    input reset,
+	 
+	 output [(DATA_WIDTH-1):0] q
+);
+
+wire [(DATA_WIDTH-1):0]addr_wire;
+
+
+ROM_IN 
+#(.DATA_WIDTH(DATA_WIDTH), .ADDR_WIDTH(ADDR_WIDTH))
+rom_1
+(
+	.addr(addr_wire),
+	.clk(clk), 
+	.q(q)
+);
